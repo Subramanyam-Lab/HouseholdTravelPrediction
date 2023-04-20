@@ -1,4 +1,6 @@
+---------------------------------- 
 NHTS Machine Learning Project
+---------------------------------
 This project is focused on utilizing Machine Learning techniques, such as linear and logistic regression, on the NHTS (National Household Travel Survey) dataset.
 ---------------------------------
 Directory Organization
@@ -31,8 +33,8 @@ To get started with the project, clone the repository to your local machine and 
 ---------------------------------
 Project Contributors
 ---------------------------------
-Eduardo Lopez
-Waquar Kaleem
+- Eduardo Lopez
+- Waquar Kaleem
 
 ---------------------------------
 Acknowledgments
